@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="Signin_to_continue">Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Login">LOGIN</string>
+    <string name="Forgot_password">Forgot Password?</string>
+    <string name="or">or</string>
+    <string name="Social_media_login">Social Media Login</string>
+    <string name="Dont_have_an_account">Don\'t have an account?</string>
+    <string name="Signup">Sign up</string>
+
+    <string name="hi">Hi!</string>
+    <string name="Create_acccout">Create a new account</string>
+    <string name="username">Username</string>
+    <string name="SignUp">SIGN UP</string>
+    <string name="Social_media_signup">Social Media Signup</string>
+    <string name="Already_have_an_account">Already have an account?</string>
+    <string name="Signin">Sign in</string>
+
+    <string name="Hello">Hello!</string>
+    <string name="des">Best place to write life stories and share your journey experiences</string>
+</resources>
